@@ -554,9 +554,11 @@ font-size: 30px;
     background-size: cover;
 }
 .section-7 .container h3:first-child{
+    padding-top: 15px;
     font-size: 23px;
 }
 .section-7 .container h3{
+    
     color: #e4b95b;
 }
 .section-7 .container p{
